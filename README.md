@@ -11,6 +11,8 @@ How to install:
 - either clone the repo or download as zip
 - open with IntelliJ as it's a simple IDEA project
 
+JVR notes: tested successfully with Java 11
+
 ### Getting Started
 
 Run this command in a git terminal to reset the code in its starting/clean state:
